@@ -1,0 +1,30 @@
+{
+    "SMT": {
+        "Path": "https://eip.adlinktech.com/lc/Public/SCHEDULE/%E6%9D%BF%E9%9A%8E%20-%20SMT%20&%20DIP/SMT%E6%96%B0%E7%89%88%E6%8E%92%E7%A8%8B.xlsx",
+        "Save_name": "Schedule/SMT_schedule.xlsx"
+    },
+    "DIP": {
+        "Path": "https://eip.adlinktech.com/lc/Public/SCHEDULE/%E6%9D%BF%E9%9A%8E%20-%20SMT%20&%20DIP/SMT%E6%96%B0%E7%89%88%E6%8E%92%E7%A8%8B.xlsx",
+        "Save_name": "Schedule/DIP_schedule.xlsx"
+    },
+    "FT": {
+        "Path": "https://eip.adlinktech.com/lc/Public/SCHEDULE/%E6%9D%BF%E9%9A%8E%20-%20Testing/ProductionSchedule-TEST.xls",
+        "Save_name": "Schedule/FT_schedule.xls"
+    },
+    "PACKING": {
+        "Path": "https://eip.adlinktech.com/lc/Public/SCHEDULE/%E6%9D%BF%E9%9A%8E%20-%20Packing/ProductionSchedule-Packing.xls",
+        "Save_name": "Schedule/PACKING_schedule.xls"
+    },
+    "REWORK": {
+        "Path": "https://eip.adlinktech.com/LC/Public/SCHEDULE/%E6%9D%BF%E9%9A%8E-%E9%87%8D%E5%B7%A5/%E9%87%8D%E5%B7%A5%E6%8E%92%E7%A8%8B%20-%E6%96%B0%E7%89%882025.xlsx",
+        "Save_name": "Schedule/REWORK_schedule.xlsx"
+    },
+    "Assy": {
+        "Path": "https://eip.adlinktech.com/LC/Public/SCHEDULE/SYSTEM/ProductionSchedule-V1-System-ASSEMBLY.xls",
+        "Save_name": "Schedule/Assy_schedule.xls"
+    },
+    "Assy-test": {
+        "Path": "https://eip.adlinktech.com/LC/Public/SCHEDULE/SYSTEM/ProductionSchedule-V1-System-test.xlsx",
+        "Save_name": "Schedule/Assy-test_schedule.xlsx"
+    }
+}
